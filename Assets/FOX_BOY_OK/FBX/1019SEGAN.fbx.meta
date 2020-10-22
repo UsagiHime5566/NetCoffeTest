@@ -1,0 +1,419 @@
+fileFormatVersion: 2
+guid: 481dcb85332cd0e4cb765368890ed810
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ALL_cloth
+    100004: Armature
+    100006: belt
+    100008: belt 1
+    100010: belt1
+    100012: belt1 1
+    100014: belt1 10
+    100016: belt1 11
+    100018: belt1 2
+    100020: belt1 3
+    100022: belt1 4
+    100024: belt1 5
+    100026: belt1 6
+    100028: belt1 7
+    100030: belt1 8
+    100032: belt1 9
+    100034: belt2
+    100036: belt2 1
+    100038: belt2 2
+    100040: belt2 3
+    100042: belt2 4
+    100044: belt2 5
+    100046: Body
+    100048: cloth
+    100050: Face
+    100052: glass
+    100054: HairJoint-088ea39a-bdfc-4765-8548-81a80a9cd4a3
+    100056: HairJoint-0f2e8b58-2259-4631-aa16-f3a3ec7cfbe7
+    100058: HairJoint-0f2e8b58-2259-4631-aa16-f3a3ec7cfbe7_end
+    100060: HairJoint-0f328133-7f2e-49da-b4ce-ba279dfd58ae
+    100062: HairJoint-0f328133-7f2e-49da-b4ce-ba279dfd58ae_end
+    100064: HairJoint-25366fa9-bb30-4016-82ba-83b1389fdf88
+    100066: HairJoint-25366fa9-bb30-4016-82ba-83b1389fdf88_end
+    100068: HairJoint-2ed26035-52c6-4602-a4a0-3c0ac9da690c
+    100070: HairJoint-3c299379-14cb-4678-b743-a7f96bfda67c
+    100072: HairJoint-417594ad-77ed-4d4e-bcb1-e58f8c98c098
+    100074: HairJoint-43221d34-c83d-468f-ac5e-8b49acb06529
+    100076: HairJoint-476d75cf-4831-4fbe-aad7-e65406f03755
+    100078: HairJoint-476d75cf-4831-4fbe-aad7-e65406f03755_end
+    100080: HairJoint-4c744792-68b6-4a4d-9546-94db2ca50fa9
+    100082: HairJoint-4c744792-68b6-4a4d-9546-94db2ca50fa9_end
+    100084: HairJoint-50fe882a-e4e8-4fbc-a0c8-fa52a01b6397
+    100086: HairJoint-593a5439-da53-46e0-84d6-b4848aebb189
+    100088: HairJoint-695b00b8-edf6-41b6-8f9e-5ce443f98437
+    100090: HairJoint-72b07802-7cbd-42e5-afaa-f00a43700c2f
+    100092: HairJoint-73f9231d-5ddb-453c-b1a1-600476f8de17
+    100094: HairJoint-73f9231d-5ddb-453c-b1a1-600476f8de17_end
+    100096: HairJoint-89618eb8-c790-4251-b1fc-4a9359ceccd2
+    100098: HairJoint-9ecae194-7f01-46e5-a4f2-6662523175ab
+    100100: HairJoint-b8ba44cc-dbb4-4b57-ba3b-1175903ceada
+    100102: HairJoint-c095167d-c532-4912-879b-080b529fbb8e
+    100104: HairJoint-c095167d-c532-4912-879b-080b529fbb8e_end
+    100106: HairJoint-d2a0afb4-c394-4eb6-8993-c8ed2d15c849
+    100108: HairJoint-d799447a-85ad-4880-8d31-3fe0c137c020
+    100110: HairJoint-d799447a-85ad-4880-8d31-3fe0c137c020_end
+    100112: HairJoint-e614931d-9f94-4391-87d9-aea4057039d8
+    100114: J_Adj_L_FaceEye
+    100116: J_Adj_L_FaceEye_end
+    100118: J_Adj_R_FaceEye
+    100120: J_Adj_R_FaceEye_end
+    100122: J_Bip_C_Chest
+    100124: J_Bip_C_Head
+    100126: J_Bip_C_Hips
+    100128: J_Bip_C_Neck
+    100130: J_Bip_C_Spine
+    100132: J_Bip_C_UpperChest
+    100134: J_Bip_L_Foot
+    100136: J_Bip_L_Hand
+    100138: J_Bip_L_Index1
+    100140: J_Bip_L_Index2
+    100142: J_Bip_L_Index3
+    100144: J_Bip_L_Index3_end
+    100146: J_Bip_L_Index3_end_end
+    100148: J_Bip_L_Little1
+    100150: J_Bip_L_Little2
+    100152: J_Bip_L_Little3
+    100154: J_Bip_L_Little3_end
+    100156: J_Bip_L_Little3_end_end
+    100158: J_Bip_L_LowerArm
+    100160: J_Bip_L_LowerLeg
+    100162: J_Bip_L_Middle1
+    100164: J_Bip_L_Middle2
+    100166: J_Bip_L_Middle3
+    100168: J_Bip_L_Middle3_end
+    100170: J_Bip_L_Middle3_end_end
+    100172: J_Bip_L_Ring1
+    100174: J_Bip_L_Ring2
+    100176: J_Bip_L_Ring3
+    100178: J_Bip_L_Ring3_end
+    100180: J_Bip_L_Ring3_end_end
+    100182: J_Bip_L_Shoulder
+    100184: J_Bip_L_Thumb1
+    100186: J_Bip_L_Thumb2
+    100188: J_Bip_L_Thumb3
+    100190: J_Bip_L_Thumb3_end
+    100192: J_Bip_L_Thumb3_end_end
+    100194: J_Bip_L_ToeBase
+    100196: J_Bip_L_ToeBase_end
+    100198: J_Bip_L_ToeBase_end_end
+    100200: J_Bip_L_UpperArm
+    100202: J_Bip_L_UpperLeg
+    100204: J_Bip_R_Foot
+    100206: J_Bip_R_Hand
+    100208: J_Bip_R_Index1
+    100210: J_Bip_R_Index2
+    100212: J_Bip_R_Index3
+    100214: J_Bip_R_Index3_end
+    100216: J_Bip_R_Index3_end_end
+    100218: J_Bip_R_Little1
+    100220: J_Bip_R_Little2
+    100222: J_Bip_R_Little3
+    100224: J_Bip_R_Little3_end
+    100226: J_Bip_R_Little3_end_end
+    100228: J_Bip_R_LowerArm
+    100230: J_Bip_R_LowerLeg
+    100232: J_Bip_R_Middle1
+    100234: J_Bip_R_Middle2
+    100236: J_Bip_R_Middle3
+    100238: J_Bip_R_Middle3_end
+    100240: J_Bip_R_Middle3_end_end
+    100242: J_Bip_R_Ring1
+    100244: J_Bip_R_Ring2
+    100246: J_Bip_R_Ring3
+    100248: J_Bip_R_Ring3_end
+    100250: J_Bip_R_Ring3_end_end
+    100252: J_Bip_R_Shoulder
+    100254: J_Bip_R_Thumb1
+    100256: J_Bip_R_Thumb2
+    100258: J_Bip_R_Thumb3
+    100260: J_Bip_R_Thumb3_end
+    100262: J_Bip_R_Thumb3_end_end
+    100264: J_Bip_R_ToeBase
+    100266: J_Bip_R_ToeBase_end
+    100268: J_Bip_R_ToeBase_end_end
+    100270: J_Bip_R_UpperArm
+    100272: J_Bip_R_UpperLeg
+    100274: left_shoes
+    100276: pants
+    100278: pasted__aiSkyDomeLight1
+    100280: right__shoes
+    100282: Root
+    100284: secondary
+    400000: //RootNode
+    400002: ALL_cloth
+    400004: Armature
+    400006: belt
+    400008: belt 1
+    400010: belt1
+    400012: belt1 1
+    400014: belt1 10
+    400016: belt1 11
+    400018: belt1 2
+    400020: belt1 3
+    400022: belt1 4
+    400024: belt1 5
+    400026: belt1 6
+    400028: belt1 7
+    400030: belt1 8
+    400032: belt1 9
+    400034: belt2
+    400036: belt2 1
+    400038: belt2 2
+    400040: belt2 3
+    400042: belt2 4
+    400044: belt2 5
+    400046: Body
+    400048: cloth
+    400050: Face
+    400052: glass
+    400054: HairJoint-088ea39a-bdfc-4765-8548-81a80a9cd4a3
+    400056: HairJoint-0f2e8b58-2259-4631-aa16-f3a3ec7cfbe7
+    400058: HairJoint-0f2e8b58-2259-4631-aa16-f3a3ec7cfbe7_end
+    400060: HairJoint-0f328133-7f2e-49da-b4ce-ba279dfd58ae
+    400062: HairJoint-0f328133-7f2e-49da-b4ce-ba279dfd58ae_end
+    400064: HairJoint-25366fa9-bb30-4016-82ba-83b1389fdf88
+    400066: HairJoint-25366fa9-bb30-4016-82ba-83b1389fdf88_end
+    400068: HairJoint-2ed26035-52c6-4602-a4a0-3c0ac9da690c
+    400070: HairJoint-3c299379-14cb-4678-b743-a7f96bfda67c
+    400072: HairJoint-417594ad-77ed-4d4e-bcb1-e58f8c98c098
+    400074: HairJoint-43221d34-c83d-468f-ac5e-8b49acb06529
+    400076: HairJoint-476d75cf-4831-4fbe-aad7-e65406f03755
+    400078: HairJoint-476d75cf-4831-4fbe-aad7-e65406f03755_end
+    400080: HairJoint-4c744792-68b6-4a4d-9546-94db2ca50fa9
+    400082: HairJoint-4c744792-68b6-4a4d-9546-94db2ca50fa9_end
+    400084: HairJoint-50fe882a-e4e8-4fbc-a0c8-fa52a01b6397
+    400086: HairJoint-593a5439-da53-46e0-84d6-b4848aebb189
+    400088: HairJoint-695b00b8-edf6-41b6-8f9e-5ce443f98437
+    400090: HairJoint-72b07802-7cbd-42e5-afaa-f00a43700c2f
+    400092: HairJoint-73f9231d-5ddb-453c-b1a1-600476f8de17
+    400094: HairJoint-73f9231d-5ddb-453c-b1a1-600476f8de17_end
+    400096: HairJoint-89618eb8-c790-4251-b1fc-4a9359ceccd2
+    400098: HairJoint-9ecae194-7f01-46e5-a4f2-6662523175ab
+    400100: HairJoint-b8ba44cc-dbb4-4b57-ba3b-1175903ceada
+    400102: HairJoint-c095167d-c532-4912-879b-080b529fbb8e
+    400104: HairJoint-c095167d-c532-4912-879b-080b529fbb8e_end
+    400106: HairJoint-d2a0afb4-c394-4eb6-8993-c8ed2d15c849
+    400108: HairJoint-d799447a-85ad-4880-8d31-3fe0c137c020
+    400110: HairJoint-d799447a-85ad-4880-8d31-3fe0c137c020_end
+    400112: HairJoint-e614931d-9f94-4391-87d9-aea4057039d8
+    400114: J_Adj_L_FaceEye
+    400116: J_Adj_L_FaceEye_end
+    400118: J_Adj_R_FaceEye
+    400120: J_Adj_R_FaceEye_end
+    400122: J_Bip_C_Chest
+    400124: J_Bip_C_Head
+    400126: J_Bip_C_Hips
+    400128: J_Bip_C_Neck
+    400130: J_Bip_C_Spine
+    400132: J_Bip_C_UpperChest
+    400134: J_Bip_L_Foot
+    400136: J_Bip_L_Hand
+    400138: J_Bip_L_Index1
+    400140: J_Bip_L_Index2
+    400142: J_Bip_L_Index3
+    400144: J_Bip_L_Index3_end
+    400146: J_Bip_L_Index3_end_end
+    400148: J_Bip_L_Little1
+    400150: J_Bip_L_Little2
+    400152: J_Bip_L_Little3
+    400154: J_Bip_L_Little3_end
+    400156: J_Bip_L_Little3_end_end
+    400158: J_Bip_L_LowerArm
+    400160: J_Bip_L_LowerLeg
+    400162: J_Bip_L_Middle1
+    400164: J_Bip_L_Middle2
+    400166: J_Bip_L_Middle3
+    400168: J_Bip_L_Middle3_end
+    400170: J_Bip_L_Middle3_end_end
+    400172: J_Bip_L_Ring1
+    400174: J_Bip_L_Ring2
+    400176: J_Bip_L_Ring3
+    400178: J_Bip_L_Ring3_end
+    400180: J_Bip_L_Ring3_end_end
+    400182: J_Bip_L_Shoulder
+    400184: J_Bip_L_Thumb1
+    400186: J_Bip_L_Thumb2
+    400188: J_Bip_L_Thumb3
+    400190: J_Bip_L_Thumb3_end
+    400192: J_Bip_L_Thumb3_end_end
+    400194: J_Bip_L_ToeBase
+    400196: J_Bip_L_ToeBase_end
+    400198: J_Bip_L_ToeBase_end_end
+    400200: J_Bip_L_UpperArm
+    400202: J_Bip_L_UpperLeg
+    400204: J_Bip_R_Foot
+    400206: J_Bip_R_Hand
+    400208: J_Bip_R_Index1
+    400210: J_Bip_R_Index2
+    400212: J_Bip_R_Index3
+    400214: J_Bip_R_Index3_end
+    400216: J_Bip_R_Index3_end_end
+    400218: J_Bip_R_Little1
+    400220: J_Bip_R_Little2
+    400222: J_Bip_R_Little3
+    400224: J_Bip_R_Little3_end
+    400226: J_Bip_R_Little3_end_end
+    400228: J_Bip_R_LowerArm
+    400230: J_Bip_R_LowerLeg
+    400232: J_Bip_R_Middle1
+    400234: J_Bip_R_Middle2
+    400236: J_Bip_R_Middle3
+    400238: J_Bip_R_Middle3_end
+    400240: J_Bip_R_Middle3_end_end
+    400242: J_Bip_R_Ring1
+    400244: J_Bip_R_Ring2
+    400246: J_Bip_R_Ring3
+    400248: J_Bip_R_Ring3_end
+    400250: J_Bip_R_Ring3_end_end
+    400252: J_Bip_R_Shoulder
+    400254: J_Bip_R_Thumb1
+    400256: J_Bip_R_Thumb2
+    400258: J_Bip_R_Thumb3
+    400260: J_Bip_R_Thumb3_end
+    400262: J_Bip_R_Thumb3_end_end
+    400264: J_Bip_R_ToeBase
+    400266: J_Bip_R_ToeBase_end
+    400268: J_Bip_R_ToeBase_end_end
+    400270: J_Bip_R_UpperArm
+    400272: J_Bip_R_UpperLeg
+    400274: left_shoes
+    400276: pants
+    400278: pasted__aiSkyDomeLight1
+    400280: right__shoes
+    400282: Root
+    400284: secondary
+    4300000: Face
+    4300002: Body
+    4300004: cloth
+    4300006: glass
+    4300008: left_shoes
+    4300010: right__shoes
+    4300012: pants
+    4300014: belt
+    4300016: belt2
+    4300018: belt1
+    9500000: //RootNode
+    13700000: belt 1
+    13700002: belt1
+    13700004: belt2
+    13700006: Body
+    13700008: cloth
+    13700010: Face
+    13700012: glass
+    13700014: left_shoes
+    13700016: pants
+    13700018: right__shoes
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cloth
+    second: {fileID: 2100000, guid: eeb18bc3436139347a139d2df75c14d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: cad64557939705e46a475467ca822f4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body
+    second: {fileID: 2100000, guid: 992b676a4a6049349a90bc49d16fe363, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: face
+    second: {fileID: 2100000, guid: 1fb695d8ca88a6946ac98796f15f332c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
