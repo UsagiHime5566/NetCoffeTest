@@ -233,7 +233,7 @@ MonoBehaviour:
   m_comment: Skirt
   m_drawGizmo: 0
   m_gizmoColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  m_stiffnessForce: 1
+  m_stiffnessForce: 4
   m_gravityPower: 0
   m_gravityDir: {x: 0, y: -1, z: 0}
   m_dragForce: 0.6
@@ -263,7 +263,7 @@ MonoBehaviour:
   m_comment: ORNAMENTS_TAIL
   m_drawGizmo: 0
   m_gizmoColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  m_stiffnessForce: 1
+  m_stiffnessForce: 4
   m_gravityPower: 0
   m_gravityDir: {x: 0, y: -1, z: 0}
   m_dragForce: 0.4
@@ -272,7 +272,7 @@ MonoBehaviour:
   - {fileID: 1064181639819594681}
   - {fileID: 6622764328359531865}
   - {fileID: 5551747359174067888}
-  m_hitRadius: 0.02
+  m_hitRadius: 0.168
   ColliderGroups: []
   m_updateType: 0
 --- !u!114 &2571050801370748306
@@ -290,7 +290,7 @@ MonoBehaviour:
   m_comment: Hair
   m_drawGizmo: 0
   m_gizmoColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  m_stiffnessForce: 1
+  m_stiffnessForce: 4
   m_gravityPower: 0
   m_gravityDir: {x: 0, y: -1, z: 0}
   m_dragForce: 0.4
@@ -305,7 +305,7 @@ MonoBehaviour:
   - {fileID: 3464324221365823373}
   - {fileID: 2666839424133844413}
   - {fileID: 8768322335803779335}
-  m_hitRadius: 0.02
+  m_hitRadius: 0.183
   ColliderGroups: []
   m_updateType: 0
 --- !u!114 &156513552803393679
@@ -323,7 +323,7 @@ MonoBehaviour:
   m_comment: Ear
   m_drawGizmo: 0
   m_gizmoColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  m_stiffnessForce: 1
+  m_stiffnessForce: 4
   m_gravityPower: 0
   m_gravityDir: {x: 0, y: -1, z: 0}
   m_dragForce: 0.4
