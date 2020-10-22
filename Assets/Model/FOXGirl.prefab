@@ -197,6 +197,7 @@ GameObject:
   - component: {fileID: 4294566514109040235}
   - component: {fileID: 2571050801370748306}
   - component: {fileID: 156513552803393679}
+  - component: {fileID: 629001797}
   m_Layer: 0
   m_Name: secondary
   m_TagString: Untagged
@@ -331,6 +332,31 @@ MonoBehaviour:
   RootBones:
   - {fileID: 131073637364793344}
   - {fileID: 7438724532328315286}
+  m_hitRadius: 0.02
+  ColliderGroups: []
+  m_updateType: 0
+--- !u!114 &629001797
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 377000061723006251}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00ea06e1753e16f4ca870c39c067c86b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_comment: 
+  m_drawGizmo: 0
+  m_gizmoColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  m_stiffnessForce: 1
+  m_gravityPower: 0
+  m_gravityDir: {x: 0, y: -1, z: 0}
+  m_dragForce: 0.4
+  m_center: {fileID: 0}
+  RootBones:
+  - {fileID: 4908100373696084361}
   m_hitRadius: 0.02
   ColliderGroups: []
   m_updateType: 0
