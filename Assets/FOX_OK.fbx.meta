@@ -559,7 +559,32 @@ ModelImporter:
     13700038: UP_Ornaments
     13700040: UP_Ornaments1
     13700042: UP_Ornaments2
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BODY
+    second: {fileID: 2100000, guid: b14ce221b2579f6408231a8b0ebca009, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BODY_Dress
+    second: {fileID: 2100000, guid: fc2864ffed85305448852efea74effa5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CLOTH
+    second: {fileID: 2100000, guid: 3b04ca53c9682344eb14dd7fc54d8d6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FACE
+    second: {fileID: 2100000, guid: 14dedbec4c7a0f34bac9fe7349581d26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SHOES
+    second: {fileID: 2100000, guid: 6909fc006a84b5b498a962bfd5c19e2b, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
